@@ -7,7 +7,7 @@ const Navigation = () => {
         <>
             <div className="container  nav-bg">
                 <div className="row">
-                    <div className="col-10 mx-auto">
+                    <div className="col-md-10 col-12 mx-auto">
                         <Navbar  expand="lg" className="px-3 py-3 navbar">
                             <NavLink to="/" className="navbar-brand">Shubham Gupta</NavLink>
                             <Navbar.Toggle aria-controls="basic-navbar-nav" />
